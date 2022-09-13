@@ -1,16 +1,20 @@
-# compass_application
+# Flutter Compass
 
-A new Flutter project.
+A simple use case of Flutter compass.
 
-## Getting Started
+## Add Dependency
+```bash
+flutter pub add flutter_compass
+```
 
-This project is a starting point for a Flutter application.
+## Results
+<p>
+<img src="https://github.com/Vishwa-Karthik/Compass-Flutter/blob/master/img1.jpg" width=200 height=400 />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Reference
+1. [Flutter Compass](https://pub.dev/packages/flutter_compass)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Note: This repository works only for Android
